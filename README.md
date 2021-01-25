@@ -1,4 +1,4 @@
 # CG_project1
 Image editor
 
-Codepath: \Qt_Opengl_Framework\
+Codepath: /B10715029_陳彥瑋_Project1_ver1/Qt_Opengl_Framework/
